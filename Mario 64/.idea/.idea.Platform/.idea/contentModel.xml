@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Erik Espuñes Juberó\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Erik Espuñes Juberó\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Platform.1273696273.00" t="ExcludeRecursive" />
+    <e p="D:\OneDrive\Universitat\4t\Desenvolupament de Jocs 3D\Platform" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Platform.cs" t="Include" />
+        <e p="Plugins" t="Include">
+          <e p="Lava_Flowing_Shader" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="ScrollingUVs_Layers.cs" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="Unlit_Lava_Distort.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Mario Assets" t="Include">
+            <e p="Models" t="Include">
+              <e p="Shaders" t="Include">
+                <e p="RimAlphaReflect.shader" t="Include" />
+                <e p="RimBumpSpecular.shader" t="Include" />
+                <e p="RimIllumSpecular.shader" t="Include" />
+                <e p="RimReflect.shader" t="Include" />
+                <e p="RimSpecular.shader" t="Include" />
+                <e p="RimSpecularAlpha.shader" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Sixpolys" t="Include">
+            <e p="SIXP Autosaver" t="Include">
+              <e p="Editor" t="Include">
+                <e p="AutoSave.cs" t="Include" />
+                <e p="AutoSavePreferences.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CameraController.cs" t="Include" />
+          <e p="ChangeCoins.cs" t="Include" />
+          <e p="ChangeLife.cs" t="Include" />
+          <e p="ChangeScene.cs" t="Include" />
+          <e p="CheckPoints" t="Include">
+            <e p="CheckPoint.cs" t="Include" />
+            <e p="SingletonMaster.cs" t="Include" />
+          </e>
+          <e p="Enemy" t="Include">
+            <e p="Enemy State" t="Include">
+              <e p="AlertState.cs" t="Include" />
+              <e p="AttackState.cs" t="Include" />
+              <e p="ChaseState.cs" t="Include" />
+              <e p="DieState.cs" t="Include" />
+              <e p="IEnemyState.cs" t="Include" />
+              <e p="PatrolState.cs" t="Include" />
+            </e>
+            <e p="Enemy.cs" t="Include" />
+          </e>
+          <e p="GameController.cs" t="Include" />
+          <e p="Items" t="Include">
+            <e p="CoinItem.cs" t="Include" />
+            <e p="Item.cs" t="Include" />
+            <e p="LifeItem.cs" t="Include" />
+            <e p="Shell.cs" t="Include" />
+          </e>
+          <e p="PlayerController.cs" t="Include" />
+          <e p="PunchBehaviour.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Platform.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
